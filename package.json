@@ -1,0 +1,12 @@
+{
+  "name": "typescript-and-nodejs-45-assignments",
+  "version": "1.0.0",
+  "description": "in this file, i have completed assignments 1 through 15,while the remaining files contain all 45 assignments related to the Governor's IT initiative.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Asim Attique 00053712",
+  "license": "ISC"
+}
